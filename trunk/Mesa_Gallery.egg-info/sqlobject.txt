@@ -1,0 +1,2 @@
+db_module=mesa.model
+history_dir=$base/mesa/sqlobject-history
